@@ -1,0 +1,9 @@
+# Data Manipulation and Numerical Operations
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Web Application Framework
+streamlit
