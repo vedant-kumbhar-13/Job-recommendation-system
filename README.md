@@ -98,3 +98,14 @@ The dataset includes the following fields for each job entry:
   * `Company Logo`
   * `Min Salary (LPA)`
   * `Max Salary (LPA)`
+
+
+## 📊 Images
+<img width="1919" height="729" alt="image" src="https://github.com/user-attachments/assets/782a343e-5675-477e-a062-eb8fb491b787" />
+<img width="1918" height="712" alt="image" src="https://github.com/user-attachments/assets/f71587f0-689f-44eb-a5d3-5770bd33579b" />
+<img width="1919" height="729" alt="image" src="https://github.com/user-attachments/assets/75e000df-3e74-461c-9200-430bc7a668c4" />
+<img width="1919" height="741" alt="image" src="https://github.com/user-attachments/assets/695b8752-cefc-4356-923b-46007a26dc00" />
+<img width="1919" height="739" alt="image" src="https://github.com/user-attachments/assets/5e5988f5-4e1b-472b-a808-9710aa262a5d" />
+
+
+
